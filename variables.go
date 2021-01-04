@@ -7,8 +7,9 @@ func main(){
 
 	var bool = true
 
-	fruit := "apple"
+	fruit := "apple"+"tini"
 	fmt.Println(b+c)
 	fmt.Println(bool)
+	fmt.Println(fruit)
 	fmt.Println(fruit)
 }
